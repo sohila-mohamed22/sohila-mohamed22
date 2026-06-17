@@ -1,54 +1,68 @@
-# 🌟 Welcome to Sohila's Digital Playground! 🌟
+# 🌟 Welcome to My GitHub Profile! 🌟
 
-Hey there! 👋 I'm *Sohila Mohamed*, and you've just stumbled upon my little corner of the tech universe. Whether you're here to explore, collaborate, or just satisfy your curiosity, I'm thrilled to have you.
+Hi there! 👋 I'm **Sohila Mohamed**, a Software Test Engineer passionate about ensuring software quality through manual testing, test automation, API testing, and performance testing.
 
 ## 🚀 About Me
-- *🎓 Senior Student:* I’m a senior syudent at Cairo University, Electronics and Communication Departement. This stage of my learning journey is both exciting and challenging as I prepare to transition from academia to the professional world.
 
-- *🚗 Embedded Systems Specialist:* I’m deeply involved in the world of embedded systems, with a particular interest in automotive technologies. My hands-on experience and projects have given me a solid understanding of how to integrate software and hardware, allowing me to develop practical solutions that enhance the functionality and performance of various systems.
+* 🎯 **Software Test Engineer:** Currently enrolled in ITI's 9-month Software Testing & Quality Assurance track, building expertise in software quality, automation, API testing, and performance testing.
 
-- *💡 Innovation Enthusiast:* I’m passionate about exploring new technologies and their potential to revolutionize the automotive industry. I strive to stay ahead of trends and breakthroughs, constantly seeking innovative solutions that can advance automotive technology and drive the future of transportation.
+* 🏆 **4× ISTQB® Certified:** Certified in Foundation Level (CTFL), Testing with Generative AI (CT-GenAI), Mobile Application Testing (CT-MAT), and Performance Testing (CT-PT).
 
-- *🍰 Dessert Lover:* When I'm not coding, you’ll find me in the kitchen whipping up some delicious treats.
+* 🧪 **Quality Advocate:** Experienced in designing test cases, executing manual tests, automating web and API testing, validating business requirements, and ensuring reliable software delivery.
+
+* 🤖 **Automation Enthusiast:** Interested in developing scalable test automation frameworks and improving testing efficiency through modern QA practices.
+
+* 🚗 **Engineering Background:** My journey started in Electronics and Communications Engineering, where I worked on automotive diagnostic systems and software development projects, building a strong technical foundation.
+
+* 🍰 **Dessert Lover:** When I'm not testing software, you'll probably find me trying a new dessert recipe.
 
 ## 🛠 Technical Skills
 
-- *Programming Languages:*
-  - ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-    ![Shell Script](https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-  
-- *Microcontroller Interfacing:*
-  - ![AVR MC](https://img.shields.io/badge/-AVR_MC-FF9E0F?style=flat-square&logo=atmel&logoColor=white)
-    ![ARM MC](https://img.shields.io/badge/-ARM_MC-FF9E0F?style=flat-square&logo=atmel&logoColor=white)
+### 🧪 Testing & QA
 
-- *Software Tools:*
-  - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-    ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-    ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/-Manual_Testing-02569B?style=flat-square)
+![Test Automation](https://img.shields.io/badge/-Test_Automation-02569B?style=flat-square)
+![API Testing](https://img.shields.io/badge/-API_Testing-02569B?style=flat-square)
+![Performance Testing](https://img.shields.io/badge/-Performance_Testing-02569B?style=flat-square)
+![STLC](https://img.shields.io/badge/-STLC-02569B?style=flat-square)
 
-- *Development Tools:*
-  - ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-    ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
+### 🤖 Automation & Testing Tools
 
-- *Design Tools:*
-  - ![Proteus](https://img.shields.io/badge/-Proteus-000080?style=flat-square&logo=proteus&logoColor=white)
-    ![Multisim](https://img.shields.io/badge/-Multisim-FF6600?style=flat-square&logo=multisim&logoColor=white)
-    ![PCB Layout](https://img.shields.io/badge/-PCB_Layout-8DB600?style=flat-square&logo=autodesk&logoColor=white)
-    ![Cadence](https://img.shields.io/badge/-Cadence-FF0000?style=flat-square&logo=cadence&logoColor=white)
-    
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square\&logo=selenium\&logoColor=white)
+![TestNG](https://img.shields.io/badge/-TestNG-E33332?style=flat-square)
+![REST Assured](https://img.shields.io/badge/-REST_Assured-6DB33F?style=flat-square)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat-square)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square\&logo=apachemaven\&logoColor=white)
+
+### 💻 Programming Languages
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+
+### 🔄 Version Control
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+
+
 ## 🎯 What You'll Find Here
 
-This repository is a blend of my technical journey and creative explorations. Expect to see:
+* 🧪 QA and Test Automation Projects
+* 🔗 API Testing and Automation Frameworks
+* ⚡ Performance Testing Exercises
+* 🚀 Web Automation Frameworks
+* 📚 Learning Resources and Practice Projects
+* 🚗 Selected Engineering and Automotive Projects from My Technical Journey
 
-- 🛠 *Innovative Projects:* From real-world automotive solutions to embedded systems experiments, it's all here.
-- 🎓 *Learning and Growth:* Code snippets, research, and everything that fuels my love for technology.
-- 🌍 *Collaborative Efforts:* I believe in the power of teamwork. Some of my best work has come from sharing ideas and building with others.
-- 📄 *My CV:* You can view and download my CV [here](https://drive.google.com/file/d/1vthPs720817S3CFD0ymVZY3QOislWoii/view?usp=sharing).
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/sohila-mohamed-836a61285](http://www.linkedin.com/in/sohila-mohamed-836a61285)
+* GitHub: github.com/sohila-mohamed22
+* Email: [sohilamnasr@gmail.com](mailto:sohilamnasr@gmail.com)
+* My CV: You can view and download my CV [here](https://drive.google.com/file/d/1TzmWvq6GNp2pUBpeKZBuIX_Qxt15SaS8/view?usp=sharing).
 
 
-Thanks for stopping by! Dive in, explore, and Looking forward to connecting and creating! 🚀
 
-Happy Coding! 💻🎉
+Thanks for stopping by! Feel free to explore my repositories, connect, and collaborate. 🚀
