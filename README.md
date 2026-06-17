@@ -59,7 +59,6 @@ Hi there! 👋 I'm **Sohila Mohamed**, a Software Test Engineer passionate about
 ## 📫 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/sohila-mohamed-836a61285](http://www.linkedin.com/in/sohila-mohamed-836a61285)
-* GitHub: github.com/sohila-mohamed22
 * Email: [sohilamnasr@gmail.com](mailto:sohilamnasr@gmail.com)
 * My CV: You can view and download my CV [here](https://drive.google.com/file/d/1TzmWvq6GNp2pUBpeKZBuIX_Qxt15SaS8/view?usp=sharing).
 
