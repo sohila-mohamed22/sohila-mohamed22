@@ -14,7 +14,6 @@ Hi there! 👋 I'm **Sohila Mohamed**, a Software Test Engineer passionate about
 
 * 🚗 **Engineering Background:** My journey started in Electronics and Communications Engineering, where I worked on automotive diagnostic systems and software development projects, building a strong technical foundation.
 
-* 🍰 **Dessert Lover:** When I'm not testing software, you'll probably find me trying a new dessert recipe.
 
 ## 🛠 Technical Skills
 
